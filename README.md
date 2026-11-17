@@ -68,7 +68,7 @@ Task-3/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/k-madhumithaa/Task-3-Valentius-Kryptix---react_frontend.git
 cd Task-3
 ```
 
